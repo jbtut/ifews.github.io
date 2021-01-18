@@ -1,29 +1,29 @@
-# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/theme/stylish-portfolio/)
+# [Start Bootstrap - Clean Blog](https://startbootstrap.com/theme/clean-blog/)
 
-[Stylish Portfolio](https://startbootstrap.com/theme/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+[Clean Blog](https://startbootstrap.com/theme/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
 ## Preview
 
-[![Stylish Portfolio Preview](https://assets.startbootstrap.com/img/screenshots/themes/stylish-portfolio.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
+[![Clean Blog Preview](https://assets.startbootstrap.com/img/screenshots/themes/clean-blog.png)](https://startbootstrap.github.io/startbootstrap-clean-blog/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)**
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-stylish-portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-clean-blog/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-clean-blog.svg)](https://www.npmjs.com/package/startbootstrap-clean-blog)
+[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-clean-blog.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-clean-blog)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-clean-blog/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-clean-blog)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-clean-blog/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-clean-blog?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/stylish-portfolio/)
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/clean-blog/)
+* Install via npm: `npm i startbootstrap-clean-blog`
+* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-clean-blog.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-clean-blog)
 
 ## Usage
 
@@ -47,7 +47,7 @@ You must have npm installed globally in order to use this build environment.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/stylish-portfolio/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-clean-blog/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/clean-blog/).
 
 ## About
 
@@ -56,7 +56,7 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 * <https://startbootstrap.com>
 * <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**, Owner of [Blackrock Digital](https://startbootstrap.io/).
 
 * <https://davidmiller.io>
 * <https://twitter.com/davidmillerhere>
@@ -66,4 +66,4 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 ## Copyright and License
 
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
