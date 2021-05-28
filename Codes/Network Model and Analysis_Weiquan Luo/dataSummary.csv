@@ -1,0 +1,32 @@
+Group,Variable,Description,Unit,Space Scale,Time Scale,Time Range,Spatial downscaling,Temporal downscaling,Source,Link
+Weather,prcp,Total precipitation recorded at weather station,millimeter,point,day,1980-01-01 to 2019-11-16,mean,sum,NOAA Global Historical Climatology Network,https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn
+,tmax,Maximum temperature recorded at weather station,degree kelvin,point,day,1980-01-01 to 2019-11-16,max,max,NOAA Global Historical Climatology Network,https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn
+,tmin,Minimum temperature recorded at weather station,degree kelvin,point,day,1980-01-01 to 2019-11-16,min,min,NOAA Global Historical Climatology Network,https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn
+Food,cornYield,Corn yield,bushels per acre,county,year,1980 to 2019,mean,NA,USDA National Agricultural Statistics Service,https://www.nass.usda.gov/
+,soybeanYield,Soybean yield,bushels per acre,county,year,1980 to 2019,mean,NA,USDA National Agricultural Statistics Service,https://www.nass.usda.gov/
+,cattleInventory,Cattle Inventory report at the frist of January at each year,count of head,state,year,1968 to 2019,NA,NA,USDA National Agricultural Statistics Service,https://www.nass.usda.gov/
+,hogInventory,Total hog inventory reported at the frist of January at each year,count of head,state,year,1968 to 2019,NA,NA,USDA National Agricultural Statistics Service,https://www.nass.usda.gov/
+,eggProduction,Total egg production,count of egg,state,month,2007-12 to 2020-04,NA,sum,USDA National Agricultural Statistics Service,https://www.nass.usda.gov/
+,cornSilage,Total silage production,tons per acre,AgDistrict,year,1980 to 2019,mean,NA,USDA National Agricultural Statistics Service,https://www.nass.usda.gov/
+Water,wflow,Mean Stream flow collected at water sampling site,cubic feet per second,point,day,1980-01-01 to 2019-12-31,mean,mean,Water Quality Portal,https://www.waterqualitydata.us/
+,gageHeight,Mean gage height collected at water sampling site,feet,point,day,1980-01-01 to 2019-12-31,mean,mean,Water Quality Portal,https://www.waterqualitydata.us/
+,twater,Mean Water temperature collected at water sampling site,degree kelvin,point,day,1980-01-01 to 2019-12-31,mean,mean,Water Quality Portal,https://www.waterqualitydata.us/
+,Ecoli,The concentration of Escherichia Coli in water,MPN/100ml,county,day,1999-06-01 to 2019-08-28,mean,mean,"Iowa DNR, AQuIa",https://programs.iowadnr.gov/aquia/
+,dissolvedOxygen,The concentration of oxygen dissolved in water,mg/l,county,day,2000-05-22 to 2013-08-28,mean,mean,"Iowa DNR, AQuIa",https://programs.iowadnr.gov/aquia/
+,microcystin,The concentration of Microcystin in water,ug/l,county,day,2006-05-22 to 2019-08-28,mean,mean,"Iowa DNR, AQuIa",https://programs.iowadnr.gov/aquia/
+,turbidity,The cloudiness or haziness due to the presence of suspended particulates,NTU,county,day,2000-05-22 to 2013-08-28,mean,mean,"Iowa DNR, AQuIa",https://programs.iowadnr.gov/aquia/
+Energy,EtOHproduction,Iowa Ethanol Production,millions of gallons,state,year,1980 to 2019,NA,NA,Iowa Renewable Fuels Association,https://iowarfa.org/resource-center/statistics/
+,biodieselProduction,Iowa Biodiesel Production,millions of gallons,state,year,2005 to 2019,NA,NA,Iowa Renewable Fuels Association,https://iowarfa.org/resource-center/statistics/
+,electricGeneration,"Net Generation by all type of souce including Petroleum, Hydroelectric Conventional, Wind, Coal, Natural Gas, Other Biomass.",Megawatt Hours,state,month,2001-01 to 2012-01,NA,sum,EIA State-level generation and fuel consumption data (EIA-923),https://www.eia.gov/electricity/data.php
+,electricitySale,"Total electricity sale including Residential, Commercial, Industrial, Transportation, and Other.",Megawatt Hours,state,month,2001-01 to 2020-02,NA,sum,"EIA Monthly Electric Power Industry Report (EIA-861M, formerly EIA-826)",https://www.eia.gov/electricity/data.php#sales
+Economic,govRevenue,State of Iowa total revenue,dollar,state,month,2012-01 to 2020-12,NA,sum,State of Iowa's data portal,https://data.iowa.gov/State-Government-Finance/State-of-Iowa-Revenue/urps-v5ck
+,govExpenditure,State of Iowa total expenditure,dollar,state,month,2004-01 to 2020-12,NA,sum,State of Iowa's data portal,https://data.iowa.gov/State-Government-Finance/State-of-Iowa-Expenditures/mn9y-cwp6
+,employment,Total employment in Iowa including agriculture sector,count of employed worker,county,month,2011-01 to 2019-12,sum,mean,IWD Quarterly Census of Employment and Wages,https://www.iowaworkforcedevelopment.gov/quarterly-census-employment-and-wages
+,cornPrice,Cash corn prices,dollar,state,month,1925-01 to 2018-12,NA,mean,"USDA NASS, ISU Extension and Outreach, Ag Decision Maker",https://www.extension.iastate.edu/agdm/crops/html/a2-11.html
+,soybeanPrice,Cash soybean prices,dollar,state,month,1925-01 to 2018-12,NA,mean,"USDA NASS, ISU Extension and Outreach, Ag Decision Maker",https://www.extension.iastate.edu/agdm/crops/html/a2-11.html
+,electricityPrice,"Iowa weight-average electricity price of residential, commerical, and industrial",cents/kilowatthour,state,year,1970 to 2018,NA,NA,"EIA Monthly Electric Power Industry Report (EIA-861M, formerly EIA-826)",https://www.eia.gov/electricity/data.php#sales
+,dieselPrice,Monthly Midwest No 2 Diesel Retail Prices,Dollars per Gallon,state,month,1994-04 to 2020-05,NA,mean,EIA Gasoline and Diesel Fuel Update,https://www.eia.gov/petroleum/gasdiesel/
+Event,flood,the count of flood event,count of event,county,month,1996-01 to 2019-10,sum,sum,NOAA Storm Events Database,https://www.ncdc.noaa.gov/stormevents/
+,drought,the count of drougth event,count of event,county,month,1996-01 to 2019-10,sum,sum,NOAA Storm Events Database,https://www.ncdc.noaa.gov/stormevents/
+,highWind,the count of high wind event,count of event,county,month,1996-01 to 2019-10,sum,sum,NOAA Storm Events Database,https://www.ncdc.noaa.gov/stormevents/
+,fishKill,The count of fish kill event,count of event,county,month,1981-02 to 2020-04,sum,sum,Iowa DNR Fish Kill Database,https://programs.iowadnr.gov/fishkill/

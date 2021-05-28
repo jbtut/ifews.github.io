@@ -1,0 +1,10 @@
+"","Space scale","Time scale","# of Data point","# of Variable","# of Arc","average degree","average betweenness","Assortativity Coefficient"
+"1","AgDistrict","day",17100,6,9,3,1,-0.455
+"2","AgDistrict","month",1880,9,15,3.33,3,-0.495
+"3","AgDistrict","year",156,12,16,2.67,6.67,-0.396
+"4","county","day",9710,6,9,3,1,-0.0385
+"5","county","month",2040,9,7,1.56,4.44,-0.235
+"6","county","year",179,11,11,2,3.82,-0.00654
+"7","state","day",3970,6,7,2.33,0.5,-0.5
+"8","state","month",297,9,10,2.22,6.44,-0.471
+"9","state","year",27,15,15,2,16.3,-0.08
