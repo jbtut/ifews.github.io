@@ -1,0 +1,7 @@
+﻿Parameters,Parameters Reference,Source,Spatial Scale,Temporal Scale,Accessibility
+Crop,"x1, x2, Acorn, Asoybean, A",USDA Survey,County,Yearly,API Key
+Animal,"x5, x6, x7, x8",USDA Census,County,Every 5 Years,API Key
+Nitrogen Rate,"x3, x4",Cao Peiyu et al,4km2 grid,Yearly,Direct share
+Energy,"x1, Acorn",EIA,State,Yearly,API Key
+Production Ratios,"c, R",RFA Pocket Guides,US,Yearly (2014-2022),Manually
+,,,,,

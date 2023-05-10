@@ -1,0 +1,6 @@
+﻿Parameters,Parameters Reference,Source,Spatial Scale,Temporal Scale,Accessibility
+Corn N Rates,x3,IFEWs,County,Yearly,Python
+Animal,"x5, x6, x7, x8",IFEWs,County,Yearly,"Python, interpolation"
+Energy,"Et, Eoil",IFEWs,County,Yearly,"Python, minimize SSE"
+Feed,EDDGS,IFEWs,County,Yearly,Python
+Nitrogen Surplus,Ns,IFEWs,County,Yearly,Python
